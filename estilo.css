@@ -1,0 +1,24 @@
+.banner{
+    background-image: url(Academia-Treinos-de-Recuperacao-iStock-1257905212.jpg);
+    height: 770px;
+    width: 1340spx;
+}
+.navegacao{
+    background-color: black;
+    color: rgb(235, 119, 12);
+    font-size: large;
+    height: 100px;
+    text-align: center;
+}
+.contatos{
+    background-color: black;
+    color: rgb(235, 119, 12);
+    height: 180px;
+    text-align: center;
+    font-size: large;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
